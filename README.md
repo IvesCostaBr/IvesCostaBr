@@ -24,9 +24,6 @@ Experiences with:
 <br>
 <a href="https://www.python.org/">Python</a>🐍
 <br>
- 
- 
-<h4>Design<h4>
 <a href="https://www.w3schools.com/html/">HTML5</a>🖌️
 <br>
 <a href="https://www.w3schools.com/css/">CSS</a>🖌️
