@@ -1,46 +1,39 @@
-Hi, My name Ives Costa,
-<br/>
-i'am brazilian HueHue,
-<br/>
-i'am python developer,
-i love backend struct,
-I' am criator this project CerberusSystem.
-https://cerberussystem.com.br <br>
+<h1 align="center"> 
+	Welcome
+</h1>
 
-Especialist :<br>
-<br>
-<img style="width: 100px;height: 100px;margin: 221.6px 0px;" src="https://humberto.io/img/generics/django.png">
+###Aboult My:seedling: : 
+- 👋 My name Ives Costa , i have 21 year.
+- 🇧🇷  Brazil.
+- 📚I am studying 5 periods of information systems 
+
+<hr>
+### My Tools 🔧:
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) 
+- ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) 
+- ![CSS](https://img.shields.io/badge/-CSS-0000ff?&logo=Css&logoColor=000000) 
+- ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) 
+- ![ANGULAR](https://img.shields.io/badge/-Angular2-ff0066?&logo=Angular&logoColor=FFFFFF) 
+
+</hr>
+
+### Databases 💽:
+- ![SQLite3](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
+- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) 
+- ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) 
+
+### Ambient of Developement:
+- !Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
+- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) 
 
 
-<h3 style="color:rgb(11 243 105 / 87%);" >----->> WEB DEVLOPER <<-----<h3>
-<br>
-Experiences with:
+<hr>
+
+## ✅ Entre em contato! ✉️
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/ives-costa-082274183/)
+ [![Gmail Badge](https://img.shields.io/badge/gustavo.lopesv3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.lopesv3@gmail.com)](mailto:gustavo.lopesv3@gmail.com)
  
-<a href="https://www.djangoproject.com/">Django</a>🚀
-<br>
-<a href="https://code.jquery.com/">Ajax</a>🤖
-<br>
-<a href="https://angular.io/">Angular</a>🚀
-<br>
-<a href="https://www.python.org/">Python</a>🐍
-<br>
-<a href="https://www.w3schools.com/html/">HTML5</a>🖌️
-<br>
-<a href="https://www.w3schools.com/css/">CSS</a>🖌️
-<br>
- 
-Estuding:<br>
-<a href="reactjs.org">React</a>📚
-  <br>
-<a href="https://dart.dev/">Dart</a>📚<br>
-<a href="https://ionicframework.com/">Ionic</a>📚
-<br>
- <br>
-  <br>
-📨My Email:<br>
-ivescosta@cerberussistem.com.br
-<br>
-<!---
-IvesCostaBr/IvesCostaBr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
