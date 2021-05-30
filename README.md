@@ -27,11 +27,11 @@
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) 
 - ![SQLite3](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
 
-### Ambient of Developement:
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) 
-
+### Ambient of Developement/Deploy:
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) ![Heroku](https://img.shields.io/badge/-Heroku-cc00cc?&logo=heroku&logoColor=FFFFFF) 
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![NGINX](https://img.shields.io/badge/-NGINX-ffffff?&logo=nginx&logoColor=00ff00)
+- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![apache](https://img.shields.io/badge/-apache2-ffffff?&logo=apache&logoColor=660033)
+![celery](https://img.shields.io/badge/-celery-ffffff?&logo=celery&logoColor=66ff66)
 
 <hr>
 
