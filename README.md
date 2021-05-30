@@ -16,24 +16,27 @@ Especialist :<br>
 <br>
 Experiences with:
  
-<a href="">Django</a>🚀
+<a href="https://www.djangoproject.com/">Django</a>🚀
 <br>
-<a href="">Ajax</a>🤖
+<a href="https://code.jquery.com/">Ajax</a>🤖
 <br>
-<a href="">Angular</a>🚀
+<a href="https://angular.io/">Angular</a>🚀
 <br>
-<a href="">Python</a>🐍
+<a href="https://www.python.org/">Python</a>🐍
 <br>
-<h4>Design<h4><br>
-<a href="">HTML5</a>🖌️
+ 
+ 
+<h4>Design<h4>
+<a href="https://www.w3schools.com/html/">HTML5</a>🖌️
 <br>
-<a href="">CSS</a>🖌️
+<a href="https://www.w3schools.com/css/">CSS</a>🖌️
 <br>
+ 
 Estuding:<br>
-<a href="">React</a>📚
+<a href="reactjs.org">React</a>📚
   <br>
-<a href="">Dart</a>📚<br>
-<a href="">Ionic</a>📚
+<a href="https://dart.dev/">Dart</a>📚<br>
+<a href="https://ionicframework.com/">Ionic</a>📚
 <br>
  <br>
   <br>
