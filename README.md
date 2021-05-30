@@ -15,6 +15,7 @@
 
 - ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)💖
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=f5dc3b)
+- ![jquery](https://img.shields.io/badge/-Jquery/Ajax-3333ff?&logo=Jquery&logoColor=fffffff)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) 
 - ![CSS](https://img.shields.io/badge/-CSS-0000ff?&logo=css3&logoColor=ffffff) 
 - ![Git](https://img.shields.io/badge/-Git-fffffc?&logo=git&logoColor=fd003b) 
