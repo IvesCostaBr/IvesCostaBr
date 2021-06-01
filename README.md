@@ -3,7 +3,7 @@
 </h1>
 
 ### Aboult My: 
-- 👋 My name Ives Costa , i have 21 year.
+- 👋 My name Ives Costa , i have 21 years.
 - 🇧🇷  Brazil.
 - 📚I am studying 5/8 periods of information systems 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ives-costa-082274183/)](https://www.linkedin.com/in/ives-costa-082274183/)
