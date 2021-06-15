@@ -11,7 +11,7 @@
 
 <hr>
 
-### My Tools 🔧:
+### My Tools🔧:
 
 - ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)💖
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=f5dc3b)
@@ -23,7 +23,7 @@
 
 </hr>
 
-### Databases 💽:
+### Databases💽:
 - ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) 
 - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) 
 - ![SQLite3](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
