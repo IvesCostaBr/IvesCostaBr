@@ -20,7 +20,7 @@
 - ![CSS](https://img.shields.io/badge/-CSS-0000ff?&logo=css3&logoColor=ffffff) 
 - ![Git](https://img.shields.io/badge/-Git-fffffc?&logo=git&logoColor=fd003b) 
 - ![ANGULAR](https://img.shields.io/badge/-Angular-ff0066?&logo=Angular&logoColor=FFFFFF) 
-- ![JavaScript](https://img.shields.io/badge/-javascript-ffff00?&logo=JavaScript&logoColor=ffffff) 
+- ![JavaScript](https://img.shields.io/badge/-javascript-ffff00?&logo=JavaScript&logoColor=000001) 
 
 </hr>
 
