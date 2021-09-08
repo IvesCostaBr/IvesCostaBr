@@ -15,6 +15,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvesCostaBr&show_icons=true&theme=radical)  
 
 ### Stacks/Linguages
+<hr>
 
 <p style="text-align: left; background-color: coral;">
   <a href="https://www.w3.org/html/" target="_blank">
