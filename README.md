@@ -37,7 +37,7 @@
 
 ### Statistics
 <hr>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvesCostaBr&show_icons=true&theme=Gradient) 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IvesCostaBr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvesCostaBr&theme=synthwave)
 
