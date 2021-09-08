@@ -35,10 +35,9 @@
 - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![apache](https://img.shields.io/badge/-apache2-ffffff?&logo=apache&logoColor=660033)
 ![celery](https://img.shields.io/badge/-celery-99ff99?&logo=celery&logoColor=fffffff)
 
+### Statistics
 <hr>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvesCostaBr&show_icons=true&theme=synthwave) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvesCostaBr&show_icons=true&theme=Gradient) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvesCostaBr&theme=synthwave)
 
 
