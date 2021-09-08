@@ -38,7 +38,8 @@
 <hr>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvesCostaBr&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvesCostaBr&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvesCostaBr&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvesCostaBr&theme=tokyonight)
 
 
  
