@@ -37,8 +37,7 @@
 
 ### Statistics
 <hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvesCostaBr&show_icons=true&theme=gradient)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvesCostaBr&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvesCostaBr&show_icons=true&theme=Gradient)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvesCostaBr&theme=synthwave)
 
 
  
