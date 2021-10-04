@@ -2,7 +2,7 @@
 	Welcome
 </h1>
 
-### Aboult My: 
+### About Me: 
 - 👋 My name Ives Costa , i have 21 years.
 - 🇧🇷  Brazil.
 - 📚I am studying 6/8 periods of information systems 
