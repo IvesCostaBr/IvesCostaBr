@@ -3,9 +3,9 @@
 </h1>
 
 ### About Me: 
-- 👋 My name Ives Costa , i have 21 years.
+- 👋 My name Ives Costa , i have 23 years.
 - 🇧🇷  Brazil.
-- 📚I am studying 7/8 periods of information systems 
+- 📚I have a degree in information systems
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ives-costa-082274183/)](https://www.linkedin.com/in/ives-costa-082274183/)
  [![Gmail Badge](https://img.shields.io/badge/ivescosta@cerberussistem.com.br-00000?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:ivescosta@cerberussistem.com.br)](mailto:ivescosta@cerberussistem.com.br)
 
