@@ -7,7 +7,7 @@
 - 🇧🇷  Brazil.
 - 📚I have a degree in information systems
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ives-costa-082274183/)](https://www.linkedin.com/in/ives-costa-082274183/)
- [![Gmail Badge](https://img.shields.io/badge/ivescosta@cerberussistem.com.br-00000?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:ives.costa)](mailto:ivespauiniam@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/ivespauiniam@gmail.com-00000?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:ives.costa)](mailto:ivespauiniam@gmail.com)
 
 ### GitHub Statistics
 <hr>
